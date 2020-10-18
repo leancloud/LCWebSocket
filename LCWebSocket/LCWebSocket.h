@@ -15,4 +15,4 @@ FOUNDATION_EXPORT const unsigned char LCWebSocketVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <LCWebSocket/PublicHeader.h>
 
-<LCWebSocket/LCWebSocketClient.h>
+#import <LCWebSocket/LCWebSocketClient.h>
