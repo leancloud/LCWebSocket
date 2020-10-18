@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "LCWebSocket"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "WebSocket client in Objective-C."
   spec.homepage     = "https://github.com/leancloud/LCWebSocket"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
